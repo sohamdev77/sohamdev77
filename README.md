@@ -9,7 +9,7 @@
 
 ### 🚀 About Me  
 - 💡 Passionate about **AI, ML & Building Products**  
-- 🐬 Working on **[Dolphin AI](https://github.com/sohamdev77)** – India’s fastest & most advanced AI project  
+- 🐬 Working on **[Dolphin AI](https://github.com/sohamdev77)** – India’s fastest & most advanced B2B AI  
 - 🌱 Currently diving deep into **AI/ML, LLMs, and Full-Stack Dev**  
 - 🎯 Goal: To **build impactful AI tools** and join **OpenAI** someday  
 - 🎨 Love blending **innovation + simplicity**  
